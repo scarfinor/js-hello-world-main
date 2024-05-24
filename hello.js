@@ -3,8 +3,19 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
-
+console.log('=====================================================')
 console.log('Hello, World!')
+console.log('=====================================================')
+console.log('7')
+console.log("=====================================================")
+console.log('10', '11')
+console.log("=====================================================")
+console.log('thankYouForAllowingMeToResubmitMyRepository')
+console.log('=====================================================')
+console.log('repositorySetToPublic')
+console.log("=====================================================")
+console.log('youKnowWhatTheySay, thirdTimeIsTheCharm, thanksAgain!')
+console.log('=====================================================')
 
 /*  
 Next, PLAY! 
